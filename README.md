@@ -1,10 +1,10 @@
 # 💫About Me :
-🔭 I’m currently working on a cloud kitchen application
-🌱 I’m currently learning AWS & NodeJS
-🤔 I’m looking for help with Rave and flair
-💬 Ask me about flutter/react and anything general related to web development
-📫 How to reach me: Instagram @yaser_cm
-⚡ Fun fact: Netflix and Chill
+🔭 I’m currently working on a cloud kitchen application<br/>
+🌱 I’m currently learning AWS & NodeJS<br/>
+🤔 I’m looking for help with Rave and flair<br/>
+💬 Ask me about flutter/react and anything general related to web development<br/>
+📫 How to reach me: Instagram @yaser_cm<br/>
+⚡ Fun fact: Netflix and Chill<br/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammed.yaser.589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaser_cm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaser-cm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9907392/mohammed-yaser) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YaserMo56487630) 
